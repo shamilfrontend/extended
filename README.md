@@ -1,2 +1,3 @@
 # extended
-Верстка макета extended
+
+demo - https://shamilfrontend.github.io/extended/
